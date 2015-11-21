@@ -73,8 +73,8 @@ rocketchat:ui-message
 rocketchat:ui-sidenav
 rocketchat:webrtc
 rocketchat:wordpress
-#rocketchat:chatops
-#rocketchat:hubot
+rocketchat:chatops
+rocketchat:hubot
 #rocketchat:irc
 #rocketchat:livechat
 
